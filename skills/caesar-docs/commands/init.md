@@ -1,4 +1,4 @@
-# cysj-docs:init
+# caesar-docs:init
 
 目标：创建最小、可导航、可检查的中文知识地图。
 
